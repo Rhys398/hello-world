@@ -1,1 +1,1 @@
-in this repository i have iust sikoly made a python todo list program
+in this repository i have iust simply made a python todo list program
